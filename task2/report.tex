@@ -1,0 +1,131 @@
+\documentclass[a4paper,14pt]{article}
+
+\title{report}
+\author{Зарубин Всеволод}
+\date{today}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools,bpchem}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{etaremune}
+
+\usepackage[margin=1in]{geometry}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+\thispagestyle{empty}
+
+
+\begin{document}
+\begin{titlepage}
+\begin{center} 
+ 
+\large Московский физико-технический институт\\
+Факультет молекулярной и химической физики\\
+\vspace{6.5cm}
+\Large Задание по курсу \\ Вычислительная математика\\
+\textbf{\Large Гиперболические системы уравнений}\\
+\end{center} 
+
+\vspace{7cm}
+{\par 
+	\raggedleft \large 
+	\emph{Выполнил}\\ 
+	студент 3 курса\\ 
+	643 группы ФМХФ\\ 
+	Зарубин Всеволод 
+\par}
+\begin{center}
+\vfill \today
+\end{center}
+\end{titlepage}
+\newpage
+\setcounter{page}{2}
+
+\newpage
+	\section{Постановка задачи}
+    \Large Необходимо численно решить систему линейных \\гиперболических уравнений.\\
+    \subsection{Параметры задачи}
+    Используются разностные схемы:
+    \begin{center}
+    \begin{enumerate}
+        \item Схема Куранта-Изаксона-Риса
+        \item Гибридная схема Федоренко. \\
+        Порядок схемы изменяется от второго в областях\\
+        гладкости решения, до первого в областях больших градиентов.  
+    \end{enumerate}
+    \end{center}
+    \vspace{0.5cm}
+    Модельное уравнение:\\
+    \begin{equation}
+        \frac{\partial \mathbf{u}}{\partial t}+\mathbf{A} \frac{\partial \mathbf{u}}{\partial x} = 0,     a = const > 0
+    \end{equation}
+    \vspace{0.5cm}
+    Сетка:
+    \begin{center}
+    $xm = mh, m = 0..M, Mh = 1; t^n = n\tau, n = 0..N, N\tau = 1$\\
+    \end{center}
+    \vspace{1cm}
+    \subsection{Рассматривается следующая система линейных\\ гиперболических уравнений} 
+    \begin{equation}
+    \frac{\partial \mathbf{u}}{\partial t}+\mathbf{A} \frac{\partial \mathbf{u}}{\partial x}=\mathbf{b}(x), 0 \leqslant x \leqslant 1,0 \leqslant t \leqslant 1, \quad \mathbf{u}(x, 0)=\left( \begin{array}{c}{x^{3}} \\ {1-x^{2}} \\ {x^{2}+1}\end{array}\right)
+\end{equation}
+    
+    \vspace{0.5cm}
+    \begin{equation}
+\mathbf{A}=\left( \begin{array}{ccc}{-4} & {\frac{3}{5}} & {\frac{128}{5}} \\ {-1} & {\frac{-36}{5}} & {\frac{-16}{5}} \\ {1} & {\frac{1}{5}} & {\frac{-19}{5}}\end{array}\right), \mathbf{b}(x)=\left( \begin{array}{l}{0} \\ {0} \\ {0}\end{array}\right)
+\end{equation}
+    
+    \newpage
+    \subsection{Конкретизация задачи}
+    \begin{itemize}
+    \item Привести систему к характеристическому виду,\\ предложить корректную постановку граничных условий.
+    \item Решить численно систему уравнений с использованием указанных разностных схем.
+    \item Определить характер преобладающей ошибки.
+    \item Определить, монотонна ли схема.
+    \item Оценить апосториорно порядок сходимости схем.
+    \end{itemize}
+    \vspace{1cm}
+    \section{Решение задачи}
+    \subsection{Приведение системы к характеристическому виду}
+    Выполним спектральное разложение матрицы $A$ системы:
+    \begin{equation}
+    A=P D P^{-1}
+    \end{equation}
+    \vspace{0.5cm}
+    \Large Справка:\\
+        Спектральное разложение матрицы — это представление квадратной матрицы A в виде произведения трёх матриц, {\displaystyle A=V\Lambda V^{-1}} A=V\Lambda V^{{-1}}, где {\displaystyle V} V — матрица, столбцы которой являются собственными векторами матрицы  A, {\displaystyle \Lambda } \Lambda  — диагональная матрица с соответствующими собственными значениями на главной диагонали, {\displaystyle V^{-1}} V^{{-1}} — матрица, обратная матрице {\displaystyle V} V.
+    \vspace{0.5cm}
+    С учётом разложения система принимает вид:
+    \begin{equation}
+    \frac{\partial \mathbf{u}}{\partial t}+\mathbf{P D P^{-1}} \frac{\partial \mathbf{u}}{\partial x}=0
+    \end{equation}
+    \vspace{0.5cm}
+    Домножая слева на $P^{-1}$, получим систему в характеристическом виде:
+    \begin{equation}
+    \frac{\partial \mathbf{R}}{\partial t}+\mathbf{D} \frac{\partial \mathbf{R}}{\partial x}=0
+    \end{equation}
+    где $\mathbf{R}=\mathbf{P^{-1}u}$
+    \vspace{0.5cm}
+    В итоге получаем следующую систему уравнений:
+    \begin{equation}
+    \begin{cases} \frac{\partial R_1}{\partial t} -9\frac{\partial R_1}{\partial x}=0 \\ \frac{\partial R_2}{\partial t} -7\frac{\partial R_2}{\partial x}=0 \\ \frac{\partial R_3}{\partial t} + 1\frac{\partial R_3}{\partial x}=0 \end{cases}
+    \end{equation}
+    \newpage
+    Начальные условия для инвариантов Римана:
+    \begin{equation}
+    \mathbf{R}(x, 0) = \left( \begin{array}{c}{\frac{-5x^{3}+25x^{2}+23}{50}} \\ {2} \\ {\frac{5x^{3}+25x^{2}+27}{50}}\end{array}\right)
+    \end{equation}
+    \vspace{0.5cm}
+    Восстановление естественных переменных возможно по формуле:
+    \begin{equation}
+    \mathbf{u}=\mathbf{PR}
+    \end{equation}
+    
+\end{document}
