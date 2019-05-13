@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  13 MAY 2019 21:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  13 MAY 2019 23:49
 entering extended mode
 **./report.tex
 (report.tex
@@ -633,925 +633,145 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 88.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.103 ...ёСЏ С‚СЂС‘С… РјР°С‚СЂРёС†, {\displaystyle
-                                                   A=V\Lambda V^{-1}} A=V\La...
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
-? R
-OK, entering \nonstopmode...
-! Extra }, or forgotten $.
-l.103 ...СЂРёС†, {\displaystyle A=V\Lambda V^{-1}}
-                                                   A=V\Lambda V^{{-1}}, РіРґ...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \textemdash invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyryu invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \textemdash invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrsftsn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyryu invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrshch invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrch invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrishrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \textemdash invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyrc invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 103.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyru invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrch invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyryo invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrz invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrzh invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyra invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrv invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 105.
-
-
-LaTeX Warning: Command \cyrd invalid in math mode on input line 105.
-
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106     \begin{equation}
-                          
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! You can't use `\eqno' in math mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.108     \end{equation}
-                        
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.108     \end{equation}
-                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no г in font cmr12!
-Missing character: There is no д in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no ы in font cmr12!
-Missing character: There is no к in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no й in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no ю in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no ы in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no ы in font cmr12!
-Missing character: There is no д in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no г in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no ь in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no у in font cmr12!
-Missing character: There is no ю in font cmr12!
-Missing character: There is no щ in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no ы in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no з in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no ч in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no г in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no й in font cmr12!
-Missing character: There is no д in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no г in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no б in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no ц in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no С in font cmr12!
-Missing character: There is no у in font cmr12!
-Missing character: There is no ч in font cmr12!
-Missing character: There is no ј in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no з in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no ж in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no я in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no п in font cmr12!
-Missing character: There is no р in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no м in font cmr12!
-Missing character: There is no а in font cmr12!
-Missing character: There is no е in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no в in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no д in font cmr12!
-
-! LaTeX Error: \begin{document} ended by \end{equation}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108     \end{equation}
-                        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.108     \end{equation}
-                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.108     \end{equation}
-                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.108     \end{equation}
-                        
-Things are pretty mixed up, but I think the worst is over.
-
-
-Overfull \hbox (169.27841pt too wide) in paragraph at lines 100--111
-\T2A/cmr/m/n/14.4 мат-ри-цы A в ви-де про-из-ве-де-ния трјх мат-риц, $\OML/cmm/
-m/it/14.4 A \OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 V\OT1/cmr/m/n/14.4 \OML/cmm
-/m/it/14.4 V[]A \OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 V\OT1/cmr/m/n/14.4 \OML
-/cmm/m/it/14.4 V[]; []V\OT1/cmr/m/n/14.4 \OML/cmm/m/it/14.4 ; A; []\OT1/cmr/m/
-n/14.4 \OML/cmm/m/it/14.4 ; []V[]\OT1/cmr/m/n/14.4 \OML/cmm/m/it/14.4 ; []V:
- \OT1/cmr/m/n/14.4 :
  []
 
-[3] [4] (report.aux) ) 
+[3]
+Overfull \hbox (26.14589pt too wide) detected at line 132
+\OML/cmm/m/it/14.4 A \OT1/cmr/m/n/14.4 = [] = [] [] []
+ []
+
+[4]
+<FRH.png, id=31, 730.98094pt x 280.04625pt>
+File: FRH.png Graphic file (type png)
+<use FRH.png>
+Package pdftex.def Info: FRH.png  used on input line 169.
+(pdftex.def)             Requested size: 452.9679pt x 173.53712pt.
+<diss.png, id=33, 403.5075pt x 247.67531pt>
+File: diss.png Graphic file (type png)
+<use diss.png>
+Package pdftex.def Info: diss.png  used on input line 177.
+(pdftex.def)             Requested size: 452.97202pt x 191.99928pt.
+<disp.png, id=34, 411.03563pt x 453.94594pt>
+File: disp.png Graphic file (type png)
+<use disp.png>
+Package pdftex.def Info: disp.png  used on input line 178.
+(pdftex.def)             Requested size: 452.96848pt x 264.00227pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./FRH.png>]
+<1.png, id=39, 1232.35406pt x 441.14813pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 190.
+(pdftex.def)             Requested size: 492.9329pt x 176.45612pt.
+
+Overfull \hbox (39.96501pt too wide) in paragraph at lines 190--191
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<2.png, id=40, 1232.35406pt x 496.10344pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 196.
+(pdftex.def)             Requested size: 492.9329pt x 198.43785pt.
+
+Overfull \hbox (39.96501pt too wide) in paragraph at lines 196--197
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./diss.png> <./disp.png>]
+<graph1.png, id=46, 872.25874pt x 668.4975pt>
+File: graph1.png Graphic file (type png)
+<use graph1.png>
+Package pdftex.def Info: graph1.png  used on input line 205.
+(pdftex.def)             Requested size: 305.29514pt x 233.97763pt.
+<graph2.png, id=47, 864.22874pt x 668.4975pt>
+File: graph2.png Graphic file (type png)
+<use graph2.png>
+Package pdftex.def Info: graph2.png  used on input line 206.
+(pdftex.def)             Requested size: 302.48459pt x 233.97763pt.
+<graph3.png, id=48, 864.22874pt x 668.4975pt>
+File: graph3.png Graphic file (type png)
+<use graph3.png>
+Package pdftex.def Info: graph3.png  used on input line 207.
+(pdftex.def)             Requested size: 302.48459pt x 233.97763pt.
+
+
+LaTeX Warning: Float too large for page by 35.42603pt on input line 210.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./1.png> <./2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<graph4.png, id=55, 864.22874pt x 668.4975pt>
+File: graph4.png Graphic file (type png)
+<use graph4.png>
+Package pdftex.def Info: graph4.png  used on input line 230.
+(pdftex.def)             Requested size: 302.48459pt x 233.97763pt.
+<graph5.png, id=56, 864.22874pt x 668.4975pt>
+File: graph5.png Graphic file (type png)
+<use graph5.png>
+Package pdftex.def Info: graph5.png  used on input line 231.
+(pdftex.def)             Requested size: 302.48459pt x 233.97763pt.
+<graph6.png, id=57, 864.22874pt x 668.4975pt>
+File: graph6.png Graphic file (type png)
+<use graph6.png>
+Package pdftex.def Info: graph6.png  used on input line 232.
+(pdftex.def)             Requested size: 302.48459pt x 233.97763pt.
+
+LaTeX Warning: Float too large for page by 37.37pt on input line 235.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9 <./graph1.png> <./graph2.png> <./graph3.png>] [10 <./graph4.png> <./grap
+h5.png> <./graph6.png>] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 5304 strings out of 492945
- 72344 string characters out of 3135415
- 157154 words of memory out of 3000000
- 9076 multiletter control sequences out of 15000+200000
- 12076 words of font info for 34 fonts, out of 3000000 for 9000
+ 5363 strings out of 492945
+ 73060 string characters out of 3135415
+ 161154 words of memory out of 3000000
+ 9122 multiletter control sequences out of 15000+200000
+ 12893 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,68p,970b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\
-Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\РљРѕРЅ
-СЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\larm1000.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData
-\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\РљРѕР
-ЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1440.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppDat
-a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\РљРѕ
-РЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/symbols/msam10.pfb>
-Output written on report.pdf (4 pages, 160512 bytes).
+ 55i,11n,68p,970b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂР
+µРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> 
+<C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂ
+РµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk>
+ <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕС
+ЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk
+> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕСЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ РРіРѕ
+СЂРµРІРёС‡\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.p
+k><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
+b>
+Output written on report.pdf (10 pages, 1064802 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
+ 372 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
